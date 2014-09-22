@@ -1,10 +1,10 @@
 {
   "name" : "OpenTok Screen Sharing for meet.tokbox.com",
   "author": "Adam Ullman",
-  "version" : "1.0",
+  "version" : "1.1",
   "manifest_version" : 2,
   "minimum_chrome_version": "34",
-  "description" : "This chrome extension is developed primary for http://meet.tokbox.com/. It doesn't do anything except capturing content of your screen.",
+  "description" : "This chrome extension is developed for http://meet.tokbox.com/. It doesn't do anything except capturing content of your screen.",
   "homepage_url": "http://meet.tokbox.com/",
   "background": {
     "scripts": ["background-script.js"],
